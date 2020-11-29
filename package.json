@@ -1,0 +1,19 @@
+{
+  "name": "shttp-webserver",
+  "version": "1.0.0",
+  "description": "A simple HTTP server made for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilaboz/Shttp-webserver.git"
+  },
+  "author": "Bilaboz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bilaboz/Shttp-webserver/issues"
+  },
+  "homepage": "https://github.com/Bilaboz/Shttp-webserver#readme"
+}
