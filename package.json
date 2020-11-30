@@ -16,8 +16,5 @@
     "url": "https://github.com/Bilaboz/Shttp-server/issues"
   },
   "homepage": "https://github.com/Bilaboz/Shttp-server#readme",
-  "dependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^8.2.1"
-  }
+  "dependencies": {}
 }
