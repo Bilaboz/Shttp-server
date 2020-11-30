@@ -1,19 +1,23 @@
 {
-  "name": "shttp-webserver",
+  "name": "shttp-server",
   "version": "1.0.0",
   "description": "A simple HTTP server made for fun",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx mocha .\\tests\\tests.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bilaboz/Shttp-webserver.git"
+    "url": "git+https://github.com/Bilaboz/Shttp-server.git"
   },
   "author": "Bilaboz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bilaboz/Shttp-webserver/issues"
+    "url": "https://github.com/Bilaboz/Shttp-server/issues"
   },
-  "homepage": "https://github.com/Bilaboz/Shttp-webserver#readme"
+  "homepage": "https://github.com/Bilaboz/Shttp-server#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
 }
