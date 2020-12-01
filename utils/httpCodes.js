@@ -8,7 +8,7 @@ module.exports = {
         500: "INTERNAL SERVER ERROR"
     },
     httpMessages: {
-        400: "You sent me a bad request!",
+        400: "Bad request",
         403: "Sorry you can't access this file!",
         404: "Sorry, we don't have this file!",
         405: "Method not allowed",
