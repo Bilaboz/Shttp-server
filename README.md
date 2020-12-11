@@ -5,7 +5,7 @@
 
 ## License
 
-Developed by [@Bilaboz](github.com/Bilaboz), distributed with MIT License
+Distributed with MIT License
 
 ## Notice
 
