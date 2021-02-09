@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bilaboz/Shttp-server/master/shttp.png">
-  <h4 align="center">A simple HTTP server made for fun</h4>
-</p>
-
 ## License
 
 Distributed with MIT License
