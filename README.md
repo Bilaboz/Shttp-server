@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/revoxhere/Shttp-server/80ff51e573c95db484fa740585ad55b9c034dc3b/Shhtp.svg">
+  <img src="https://raw.githubusercontent.com/Bilaboz/Shttp-server/master/shttp.png">
   <h4 align="center">A simple HTTP server made for fun</h4>
 </p>
 
